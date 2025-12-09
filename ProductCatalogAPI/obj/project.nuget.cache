@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "c2b6Z3L9orM=",
+  "success": true,
+  "projectFilePath": "C:\\Courses\\coursera_dotnet_csharp_beginner\\ProductCatalogAPI\\ProductCatalogAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NaomiVoerman\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0\\microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
+    "C:\\Users\\NaomiVoerman\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
