@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "T7wNM+LH5Jo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\naomi\\coursera_dotnet_csharp_beginner\\CRUDAPI\\CRUDAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\naomi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "C:\\Users\\naomi\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

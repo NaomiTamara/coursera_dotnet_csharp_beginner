@@ -1,0 +1,21 @@
+GET http://localhost:5123/users/1/posts/somehello
+
+###
+
+GET http://localhost:5123/products/10
+
+###
+
+GET http://localhost:5123/report/
+
+###
+
+GET http://localhost:5123/files/jfimages/cats/cat_1.jpg
+
+###
+
+GET http://localhost:5123/search?q=dotnet&page=2
+
+###
+
+GET http://localhost:5123/store/electronics/sale?inStock=true

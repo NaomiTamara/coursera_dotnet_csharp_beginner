@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6da3c6db-1c55-456e-80d6-b3f6690f2404" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/BasicApiEndpoint.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/Properties/launchSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/appsettings.Development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/bin/Debug/net9.0/BasicApiEndpoint.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/bin/Debug/net9.0/BasicApiEndpoint.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/bin/Debug/net9.0/BasicApiEndpoint.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/bin/Debug/net9.0/BasicApiEndpoint.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/bin/Debug/net9.0/BasicApiEndpoint.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/bin/Debug/net9.0/BasicApiEndpoint.staticwebassets.endpoints.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/bin/Debug/net9.0/appsettings.Development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/bin/Debug/net9.0/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/obj/BasicApiEndpoint.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/obj/BasicApiEndpoint.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/obj/BasicApiEndpoint.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/obj/Debug/net9.0/BasicApiEndpoint.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/obj/Debug/net9.0/BasicApiEndpoint.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/obj/Debug/net9.0/BasicApiEndpoint.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/obj/Debug/net9.0/BasicApiEndpoint.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/obj/Debug/net9.0/BasicApiEndpoint.MvcApplicationPartsAssemblyInfo.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/obj/Debug/net9.0/BasicApiEndpoint.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/obj/Debug/net9.0/BasicApiEndpoint.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/obj/Debug/net9.0/BasicApiEndpoint.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/obj/Debug/net9.0/BasicApiEndpoint.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/obj/Debug/net9.0/BasicApiEndpoint.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/obj/Debug/net9.0/BasicApiEndpoint.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/obj/Debug/net9.0/BasicApiEndpoint.sourcelink.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/obj/Debug/net9.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/obj/Debug/net9.0/ref/BasicApiEndpoint.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/obj/Debug/net9.0/refint/BasicApiEndpoint.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/obj/Debug/net9.0/rjsmrazor.dswa.cache.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/obj/Debug/net9.0/rpswa.dswa.cache.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/obj/Debug/net9.0/staticwebassets.build.endpoints.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/obj/Debug/net9.0/staticwebassets.build.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/obj/Debug/net9.0/staticwebassets.build.json.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/BasicApiEndpoint/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicApiEndpoint/request.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/Controllers/ProductController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/MyFirstApi.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/MyFirstApi.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/Properties/launchSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/appsettings.Development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/bin/Debug/net9.0/Microsoft.OpenApi.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/bin/Debug/net9.0/MyFirstApi.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/bin/Debug/net9.0/MyFirstApi.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/bin/Debug/net9.0/MyFirstApi.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/bin/Debug/net9.0/MyFirstApi.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/bin/Debug/net9.0/MyFirstApi.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/bin/Debug/net9.0/MyFirstApi.staticwebassets.endpoints.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/bin/Debug/net9.0/appsettings.Development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/bin/Debug/net9.0/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/obj/Debug/net9.0/MyFirstApi.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/obj/Debug/net9.0/MyFirstApi.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/obj/Debug/net9.0/MyFirstApi.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/obj/Debug/net9.0/MyFirstApi.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/obj/Debug/net9.0/MyFirstApi.MvcApplicationPartsAssemblyInfo.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/obj/Debug/net9.0/MyFirstApi.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/obj/Debug/net9.0/MyFirstApi.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/obj/Debug/net9.0/MyFirstApi.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/obj/Debug/net9.0/MyFirstApi.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/obj/Debug/net9.0/MyFirstApi.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/obj/Debug/net9.0/MyFirstApi.csproj.Up2Date" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/obj/Debug/net9.0/MyFirstApi.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/obj/Debug/net9.0/MyFirstApi.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/obj/Debug/net9.0/MyFirstApi.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/obj/Debug/net9.0/MyFirstApi.sourcelink.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/obj/Debug/net9.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/obj/Debug/net9.0/ref/MyFirstApi.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/obj/Debug/net9.0/refint/MyFirstApi.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/obj/Debug/net9.0/rjsmrazor.dswa.cache.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/obj/Debug/net9.0/rpswa.dswa.cache.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/obj/Debug/net9.0/staticwebassets.build.endpoints.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/obj/Debug/net9.0/staticwebassets.build.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/obj/Debug/net9.0/staticwebassets.build.json.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/obj/MyFirstApi.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/obj/MyFirstApi.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/obj/MyFirstApi.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstApi/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstConsoleApp/JsonExample/JsonExample.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstConsoleApp/JsonExample/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstConsoleApp/JsonExample/bin/Debug/net9.0/JsonExample.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstConsoleApp/JsonExample/bin/Debug/net9.0/JsonExample.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstConsoleApp/JsonExample/bin/Debug/net9.0/JsonExample.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstConsoleApp/JsonExample/bin/Debug/net9.0/JsonExample.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstConsoleApp/JsonExample/bin/Debug/net9.0/JsonExample.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstConsoleApp/JsonExample/bin/Debug/net9.0/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstConsoleApp/JsonExample/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstConsoleApp/JsonExample/obj/Debug/net9.0/JsonExam.8DACB2F8.Up2Date" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstConsoleApp/JsonExample/obj/Debug/net9.0/JsonExample.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstConsoleApp/JsonExample/obj/Debug/net9.0/JsonExample.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstConsoleApp/JsonExample/obj/Debug/net9.0/JsonExample.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstConsoleApp/JsonExample/obj/Debug/net9.0/JsonExample.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstConsoleApp/JsonExample/obj/Debug/net9.0/JsonExample.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstConsoleApp/JsonExample/obj/Debug/net9.0/JsonExample.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstConsoleApp/JsonExample/obj/Debug/net9.0/JsonExample.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstConsoleApp/JsonExample/obj/Debug/net9.0/JsonExample.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstConsoleApp/JsonExample/obj/Debug/net9.0/JsonExample.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstConsoleApp/JsonExample/obj/Debug/net9.0/JsonExample.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstConsoleApp/JsonExample/obj/Debug/net9.0/JsonExample.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstConsoleApp/JsonExample/obj/Debug/net9.0/JsonExample.sourcelink.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstConsoleApp/JsonExample/obj/Debug/net9.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstConsoleApp/JsonExample/obj/Debug/net9.0/ref/JsonExample.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstConsoleApp/JsonExample/obj/Debug/net9.0/refint/JsonExample.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstConsoleApp/JsonExample/obj/JsonExample.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstConsoleApp/JsonExample/obj/JsonExample.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstConsoleApp/JsonExample/obj/JsonExample.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstConsoleApp/JsonExample/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstConsoleApp/JsonExample/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJsonProject/ProductApp/ProductApp.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJsonProject/ProductApp/ProductApp.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJsonProject/ProductApp/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJsonProject/ProductApp/bin/Debug/net9.0/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJsonProject/ProductApp/bin/Debug/net9.0/ProductApp.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJsonProject/ProductApp/bin/Debug/net9.0/ProductApp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJsonProject/ProductApp/bin/Debug/net9.0/ProductApp.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJsonProject/ProductApp/bin/Debug/net9.0/ProductApp.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJsonProject/ProductApp/bin/Debug/net9.0/ProductApp.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJsonProject/ProductApp/obj/Debug/net9.0/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJsonProject/ProductApp/obj/Debug/net9.0/ProductApp.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJsonProject/ProductApp/obj/Debug/net9.0/ProductApp.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJsonProject/ProductApp/obj/Debug/net9.0/ProductApp.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJsonProject/ProductApp/obj/Debug/net9.0/ProductApp.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJsonProject/ProductApp/obj/Debug/net9.0/ProductApp.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJsonProject/ProductApp/obj/Debug/net9.0/ProductApp.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJsonProject/ProductApp/obj/Debug/net9.0/ProductApp.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJsonProject/ProductApp/obj/Debug/net9.0/ProductApp.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJsonProject/ProductApp/obj/Debug/net9.0/ProductApp.csproj.Up2Date" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJsonProject/ProductApp/obj/Debug/net9.0/ProductApp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJsonProject/ProductApp/obj/Debug/net9.0/ProductApp.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJsonProject/ProductApp/obj/Debug/net9.0/ProductApp.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJsonProject/ProductApp/obj/Debug/net9.0/ProductApp.sourcelink.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJsonProject/ProductApp/obj/Debug/net9.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJsonProject/ProductApp/obj/Debug/net9.0/ref/ProductApp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJsonProject/ProductApp/obj/Debug/net9.0/refint/ProductApp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJsonProject/ProductApp/obj/ProductApp.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJsonProject/ProductApp/obj/ProductApp.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJsonProject/ProductApp/obj/ProductApp.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJsonProject/ProductApp/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJsonProject/ProductApp/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="36ZNpodcQkTPgQarXSyEy6pl5UH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6da3c6db-1c55-456e-80d6-b3f6690f2404" name="Changes" comment="" />
+      <created>1765210319314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765210319314</updated>
+      <workItem from="1765210322149" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
