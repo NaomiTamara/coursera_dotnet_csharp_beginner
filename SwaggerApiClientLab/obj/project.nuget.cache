@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hSgIYp/C/90=",
+  "dgSpecHash": "LTDoOLTIcFw=",
   "success": true,
   "projectFilePath": "C:\\Courses\\coursera_dotnet_csharp_beginner\\SwaggerApiClientLab\\SwaggerApiClientLab.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,7 @@
     "C:\\Users\\NaomiVoerman\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
     "C:\\Users\\NaomiVoerman\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\9.0.0\\microsoft.extensions.fileproviders.abstractions.9.0.0.nupkg.sha512",
     "C:\\Users\\NaomiVoerman\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0\\microsoft.extensions.primitives.9.0.0.nupkg.sha512",
-    "C:\\Users\\NaomiVoerman\\.nuget\\packages\\microsoft.openapi\\2.3.0\\microsoft.openapi.2.3.0.nupkg.sha512",
+    "C:\\Users\\NaomiVoerman\\.nuget\\packages\\microsoft.openapi\\2.4.1\\microsoft.openapi.2.4.1.nupkg.sha512",
     "C:\\Users\\NaomiVoerman\\.nuget\\packages\\namotion.reflection\\3.4.3\\namotion.reflection.3.4.3.nupkg.sha512",
     "C:\\Users\\NaomiVoerman\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\NaomiVoerman\\.nuget\\packages\\njsonschema\\11.5.2\\njsonschema.11.5.2.nupkg.sha512",
@@ -22,10 +22,10 @@
     "C:\\Users\\NaomiVoerman\\.nuget\\packages\\nswag.core\\14.6.3\\nswag.core.14.6.3.nupkg.sha512",
     "C:\\Users\\NaomiVoerman\\.nuget\\packages\\nswag.msbuild\\14.6.3\\nswag.msbuild.14.6.3.nupkg.sha512",
     "C:\\Users\\NaomiVoerman\\.nuget\\packages\\parlot\\1.4.0\\parlot.1.4.0.nupkg.sha512",
-    "C:\\Users\\NaomiVoerman\\.nuget\\packages\\swashbuckle.aspnetcore\\10.1.0\\swashbuckle.aspnetcore.10.1.0.nupkg.sha512",
-    "C:\\Users\\NaomiVoerman\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.1.0\\swashbuckle.aspnetcore.swagger.10.1.0.nupkg.sha512",
-    "C:\\Users\\NaomiVoerman\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.1.0\\swashbuckle.aspnetcore.swaggergen.10.1.0.nupkg.sha512",
-    "C:\\Users\\NaomiVoerman\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.0\\swashbuckle.aspnetcore.swaggerui.10.1.0.nupkg.sha512",
+    "C:\\Users\\NaomiVoerman\\.nuget\\packages\\swashbuckle.aspnetcore\\10.1.5\\swashbuckle.aspnetcore.10.1.5.nupkg.sha512",
+    "C:\\Users\\NaomiVoerman\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.1.5\\swashbuckle.aspnetcore.swagger.10.1.5.nupkg.sha512",
+    "C:\\Users\\NaomiVoerman\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.1.5\\swashbuckle.aspnetcore.swaggergen.10.1.5.nupkg.sha512",
+    "C:\\Users\\NaomiVoerman\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.5\\swashbuckle.aspnetcore.swaggerui.10.1.5.nupkg.sha512",
     "C:\\Users\\NaomiVoerman\\.nuget\\packages\\timezoneconverter\\7.0.0\\timezoneconverter.7.0.0.nupkg.sha512"
   ],
   "logs": []
